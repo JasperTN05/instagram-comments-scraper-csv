@@ -21,5 +21,13 @@ Install the required Python packages using the `requirements.txt` file:
 - Enter your Instagram Credentials and the URL of the Post you want to extract the comments from.
 - Receive .csv file with all comments.
 
+## Disclaimer
+
+This script relies on specific class names that might change in the future. Consider using more generic selectors or combining them with other attributes for better adaptability. The script is intended for educational purposes only and should not be used to violate Instagram's policies or anyone's privacy.
+
+## Contributing
+
+I welcome contributions to this project! Feel free to submit pull requests for bug fixes, improvements, or new features. Please ensure your code adheres to the existing coding style and includes proper documentation.
+
 ## License
 
