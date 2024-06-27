@@ -8,6 +8,7 @@ This project automates the extraction of comments from any Instagram post. It lo
 
 - Python => 3.8
 - [Selenium Chrome Driver](https://pypi.org/project/selenium/)
+- It is recommended to use a [virtual environments](https://docs.python.org/3/library/venv.html).
 
 ### Python Packages
 
